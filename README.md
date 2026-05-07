@@ -4,7 +4,8 @@ Exemplo de criação de WebServices utilizando SOAP com banco de dados SQL-Serve
 
 ### Requisitos
 
-Acessar Visual Studio como administrador. 
+- Se necessário Acessar Visual Studio como administrador.
+- Se necessário atribuir acesso de usuário NT Service\MSSQLSERVER a pasta App_Data.
 
 ### O que você vai encontrar neste projeto
 
