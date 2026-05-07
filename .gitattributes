@@ -1,2 +1,4 @@
-# Auto detect text files and perform LF normalization
+exemploProvedorSOAP/App_Data/* linguist-language=C#
+DataBase/* linguist-language=C#
+*.cshtml linguist-language=C#
 * text=auto
