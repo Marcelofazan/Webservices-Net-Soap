@@ -20,7 +20,7 @@ Para executar a aplicação é necessário:
 
 ### String de conexão do banco
 
-Modifique a string de conexão no arquivo **PessoaService.asmx**, no trecho indicado:
+Modifique o [DIRETORIO] na string de conexão no arquivo **PessoaService.asmx**, no trecho indicado:
 
 ```bash
 ...
