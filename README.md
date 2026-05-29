@@ -10,7 +10,7 @@ Exemplo de criação de WebServices utilizando SOAP .NET WCF com banco de dados 
 - Se necessário Acessar Visual Studio como administrador.
 - Se necessário atribuir acesso de usuário NT Service\MSSQLSERVER a pasta App_Data.
 
-#### Executar a aplicação
+#### 🔄 Executar a aplicação
 Para executar a aplicação é necessário: 
 
 - Acessar link de referência da documentação: (http://localhost:54222/PessoaService.asmx)
@@ -31,6 +31,6 @@ Exemplo de criação de Consumo de WebServices, desenvolvido em .NET10.
 |-----------|-----------|
 | **Client SOAP**  | Manipulação de métodos CRUD para enviar/receber dados. |
 
-#### Executar a aplicação
+#### 🔄 Executar a aplicação
 - Para executar a aplicação é necessário, rodar antes o soap-provedor-database. **(http://localhost:54222/PessoaService.asmx)**
 
