@@ -1,4 +1,4 @@
-## 🛠️ Soap-Provedor-Database
+## 🛠️ Soap-Provedor-Consumir-Database
 Exemplo de criação de WebServices utilizando SOAP .NET WCF com banco de dados SQL-Server.
 
 #### 📋 O que você vai encontrar neste projeto
