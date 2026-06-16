@@ -1,5 +1,5 @@
 ## 🛠️ Soap-Provedor-Database
-Exemplo de WebServices utilizando SOAP .NET WCF com banco de dados SQL-Server.
+Exemplo de WebServices SOAP em .NET WCF com banco de dados SQL-Server.
 
 #### 📋 O que você vai encontrar neste projeto
 | Tecnologia | Descrição |
