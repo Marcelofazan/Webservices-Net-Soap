@@ -25,7 +25,7 @@ Para executar a aplicação é necessário:
 
 
 ## 🌐 Razor-Consumir-Soap
-Exemplo de criação de Consumo de WebServices, desenvolvido em .NET10. 
+Exemplo de Consumo de WebServices em C# ASP.NET Core 10. 
 
 #### O que você vai encontrar neste projeto
 | Tecnologia | Descrição |
