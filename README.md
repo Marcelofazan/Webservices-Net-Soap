@@ -1,5 +1,5 @@
-## 🛠️ Webservice-Net-Soap
-Exemplo de WebServices SOAP em C# .NET WCF com banco de dados SQL-Server.
+## 🛠️ Webservice-Integracao-Net-Soap
+Exemplo de integração SOAP WebServices em C# .NET e banco de dados SQL-Server.
 
 #### 📋 O que você vai encontrar neste projeto
 | Tecnologia | Descrição |
@@ -24,8 +24,6 @@ Para executar a aplicação é necessário:
 - Acessar link de referência da documentação: (http://localhost:54222/PessoaService.asmx)
 
 ## 🌐 Razor-Consumir-Soap
-Exemplo de Consumo de WebServices em C# ASP.NET Core 10. 
-
 #### 📋 O que você vai encontrar neste projeto
 | Tecnologia | Descrição |
 |-----------|-----------|
