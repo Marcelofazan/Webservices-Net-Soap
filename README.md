@@ -1,4 +1,4 @@
-## 🛠️ Webservice-Integracao-Net-Soap
+## 🛠️ Webservices-Integracao-Net-Soap
 Exemplo de integração SOAP WebServices em C# .NET e banco de dados SQL-Server.
 
 #### 📋 O que você vai encontrar neste projeto
